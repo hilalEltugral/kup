@@ -1,0 +1,15 @@
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\Tao.OpenGl.dll
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\Tao.OpenGl.xml
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Hilal PC\Desktop\GL\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
